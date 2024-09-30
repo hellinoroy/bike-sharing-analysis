@@ -1,3 +1,7 @@
+## Prerequisite
+```
+add pywin32==306 and pywinpty==2.0.13 to the requirements.txt
+```
 ## Setup Environment - Shell/Terminal
 ```
 mkdir proyek_analisis_data
